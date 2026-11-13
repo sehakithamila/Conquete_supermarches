@@ -1,0 +1,18 @@
+# Données et modèles (trop gros pour Git)
+data/
+models/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Divers
+.DS_Store

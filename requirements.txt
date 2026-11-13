@@ -1,0 +1,12 @@
+pyspark>=4.0.0
+transformers
+datasets
+accelerate
+plotly
+streamlit
+scikit-learn
+pandas
+numpy
+requests
+pyarrow
+joblib
